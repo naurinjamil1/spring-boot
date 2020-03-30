@@ -1,0 +1,5 @@
+naurin/demo/model/Service.class
+naurin/demo/repository/ServiceRepository.class
+naurin/demo/App.class
+naurin/demo/controller/ServiceController.class
+naurin/demo/exception/ServiceNotFoundException.class

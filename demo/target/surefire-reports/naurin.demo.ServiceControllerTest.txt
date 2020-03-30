@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: naurin.demo.ServiceControllerTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.103 sec <<< FAILURE!
+naurin.demo.ServiceControllerTest.testPostService()  Time elapsed: 0.103 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at naurin.demo.ServiceControllerTest.testPostService(ServiceControllerTest.java:52)
+
+naurin.demo.ServiceControllerTest.testGetService()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at naurin.demo.ServiceControllerTest.testGetService(ServiceControllerTest.java:65)
+
